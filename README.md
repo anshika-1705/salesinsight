@@ -17,7 +17,7 @@ This repository contains a Power BI dashboard that analyzes historical sales dat
 
 ## Preview
 
-![Dashboard Screenshot](https://your-link-to-screenshot)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## How to Use
 
